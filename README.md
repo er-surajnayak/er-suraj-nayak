@@ -117,11 +117,11 @@ PDF summarization • Twitter sentiment analysis • Empathetic AI assistant.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er-surajnayak&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-surajnayak&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -129,8 +129,8 @@ PDF summarization • Twitter sentiment analysis • Empathetic AI assistant.
 ## 🌍 Connect With Me
 
 - 📧 nayaksuraj.official@gmail.com  
-- 💼 LinkedIn: (Add your link)  
-- 🌐 Portfolio: (Add if available)  
+- 💼 LinkedIn: https://www.linkedin.com/in/suraj-nayak-a96a4a16a/  
+- 🌐 Portfolio: coming soon!  
 
 ---
 
