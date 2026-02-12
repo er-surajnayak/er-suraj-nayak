@@ -45,9 +45,11 @@ I design production-oriented AI systems and help institutions adopt Generative A
 ### 🤖 AI / Generative AI
 
 <p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/keras.svg" width="48" />
   <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48"/>
 </p>
 
 **Core Expertise:**
