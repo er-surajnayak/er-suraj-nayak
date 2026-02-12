@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suraj Nayak</h1>
 
 <h3 align="center">
-AI Engineer | Generative AI & RAG Specialist | Technical Trainer | Public Speaker
+AI Engineer | Generative AI & RAG Specialist | IBM Certified Trainer | Technical Speaker
 </h3>
 
 <p align="center">
-Building Intelligent AI Systems • Training Future Engineers • Speaking on AI Innovation
+Building Intelligent AI Systems • Training Future Engineers • Driving AI Adoption
 </p>
 
 <p align="center">
@@ -17,19 +17,21 @@ Building Intelligent AI Systems • Training Future Engineers • Speaking on AI
 ## 🧠 About Me
 
 - 🎓 BTech CSE (AI & ML) | CGPA: 9.00  
-- 🤖 AI Engineer focused on LLMs, RAG & Agentic AI  
-- 👨‍🏫 Conducted Python & Generative AI trainings for engineering students and faculty  
-- 🎤 Public Speaker on AI & Emerging Technologies  
+- 🤖 AI Engineer specializing in LLMs, RAG & Agentic AI Systems  
+- 🏢 Conducted hands-on sessions on **IBM ICE (Industry Cognitive Engine)**  
+- 🏅 Certified IBM Trainer  
+- 👨‍🏫 Delivered Python & Generative AI trainings for engineering students and faculty  
+- 🎤 Public Speaker on AI Systems & Emerging Technologies  
 - 🏆 National Level Hackathon Organizer & Mentor  
 - 📄 IEEE Research Paper Published  
 
-I design real-world AI systems and help institutions adopt Generative AI practically.
+I design production-oriented AI systems and help institutions adopt Generative AI effectively.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -40,22 +42,24 @@ I design real-world AI systems and help institutions adopt Generative AI practic
 
 ---
 
-### 🤖 AI / ML / Generative AI
+### 🤖 AI / Generative AI
 
 <p>
   <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="40"/>
 </p>
 
-- OpenAI API  
-- Gemini API  
+**Core Expertise:**
+- LangChain  
+- LangFlow  
 - RAG Architecture  
 - FAISS / ChromaDB  
-- LangChain / LangGraph  
 - Agentic AI Systems  
+- OpenAI API  
+- Gemini API  
 - Prompt Engineering  
-- n8n Automation  
+- Semantic Search Systems  
 
 ---
 
@@ -70,20 +74,30 @@ I design real-world AI systems and help institutions adopt Generative AI practic
 
 ---
 
+## 🏢 Industry Engagement
+
+- Certified IBM Trainer  
+- Conducted technical sessions on IBM ICE  
+- Delivered Faculty Development Programs (FDPs) on AI integration  
+- Trained engineering students in real-world AI applications  
+- Guided multiple AI & ML project teams  
+
+---
+
 ## 🎓 Trainings & Workshops
 
-- Conducted hands-on Python training for engineering students  
-- Delivered workshops on Generative AI, RAG & Agentic AI Systems  
-- Conducted Faculty Development Programs (FDPs) on AI integration in education  
-- Mentored multiple AI & ML project teams  
-- Guided students in building real-world AI applications  
+- Python Programming & Data Structures  
+- Generative AI & RAG Systems  
+- Agentic AI Architecture  
+- LLM Application Development  
+- Automation using n8n  
 
 ---
 
 ## 🎤 Public Speaking & Leadership
 
-- Speaker on Generative AI & AI Systems Architecture  
-- Lead Organizer – National Level Hackathon (Hack to Crack 2024)  
+- Speaker on Generative AI & AI System Design  
+- Lead Organizer – Hack to Crack (National Level Hackathon 2024)  
 - Mentor – Hack to Crack 2.0 (2025)  
 - Active contributor to AI learning ecosystem  
 
@@ -92,24 +106,24 @@ I design real-world AI systems and help institutions adopt Generative AI practic
 ## 🚀 Featured Projects
 
 ### 🧠 LLM Chatbot (Gemini API)
-Context-aware conversational assistant using LLM architecture.
+Context-aware conversational AI assistant built using prompt engineering and memory pipelines.
 
 ### 📄 RAG System with FAISS
-PDF ingestion → embedding pipeline → semantic search → LLM response generation.
+Document ingestion → embedding storage → semantic search → LLM response generation.
 
 ### 🚨 Accident Alert Locator
-YOLOv8 + OpenCV-based real-time accident detection & alert system.
+YOLOv8 + OpenCV based real-time accident detection & alert system.
 
 ### 📊 OpenAI Innovations
-PDF summarization • Twitter sentiment analysis • Empathetic AI assistant.
+PDF Summarization • Sentiment Analysis • Empathetic AI Assistant using LangChain.
 
 ---
 
 ## 📈 Impact
 
-- 🎓 300+ Students Trained *(update with real number)*  
-- 🏫 10+ Workshops Conducted *(update with real number)*  
-- 🤖 Multiple AI Projects Mentored  
+- 🎓 300+ Students Trained *(update with actual number)*  
+- 🏫 10+ Workshops Conducted *(update with actual number)*  
+- 🤖 Multiple AI Systems Built & Mentored  
 - 🏆 National-Level Hackathon Leadership  
 
 ---
@@ -117,11 +131,12 @@ PDF summarization • Twitter sentiment analysis • Empathetic AI assistant.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=er-surajnayak&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=er-surajnayak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-surajnayak&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-surajnayak&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=er-surajnayak&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -129,8 +144,8 @@ PDF summarization • Twitter sentiment analysis • Empathetic AI assistant.
 ## 🌍 Connect With Me
 
 - 📧 nayaksuraj.official@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/suraj-nayak-a96a4a16a/  
-- 🌐 Portfolio: coming soon!  
+- 💼 LinkedIn: (Add your LinkedIn URL)  
+- 🌐 Portfolio: (Add if available)  
 
 ---
 
